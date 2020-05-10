@@ -3,7 +3,7 @@
 https://www.ijcai.org/Proceedings/2018/0148.pdf
 
 ## Reference
-Erkun Yang, Cheng Deng, Tongliang Liu,等. Semantic Structure-based Unsupervised Deep Hashing[C]// Twenty-Seventh International Joint Conference on Artificial Intelligence IJCAI-18. 2018.
+Yang E , Deng C , Liu T , et al. Semantic Structure-based Unsupervised Deep Hashing[C]// Twenty-Seventh International Joint Conference on Artificial Intelligence IJCAI-18. 2018.
 
 ## REQUIREMENTS
 1. pytorch 1.1
