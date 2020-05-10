@@ -1,5 +1,8 @@
 # A pytorch implementation for paper "Semantic Structure-based Unsupervised Deep Hashing" IJCAI-2018
 
+## Reference
+Erkun Yang, Cheng Deng, Tongliang Liu,等. Semantic Structure-based Unsupervised Deep Hashing[C]// Twenty-Seventh International Joint Conference on Artificial Intelligence IJCAI-18. 2018.
+
 ## REQUIREMENTS
 1. pytorch 1.1
 2. loguru
